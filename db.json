@@ -4,14 +4,4 @@
 		"timeInMillisec": "1656661500000",
 		"fullName": "IoT - Internet of Things"
 	},
-	"today": [{
-			"shortName": "DW",
-			"timeInMillisec": "1656675900000"
-		},
-		{
-			"shortName": "Esy",
-			"timeInMillisec": "1656688500000"
-		}
-	],
-	"lectureCountToday": "2"
 }
